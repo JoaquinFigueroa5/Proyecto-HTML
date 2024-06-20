@@ -1,2 +1,3 @@
-# Repositorio-prueba1IN5CV
-Creando un repositorio remoto para luego comenzar a trabajar de forma local desde 0.
+# Proyecto-HTML
+Creando un repositorio para trabajar el primer proyecto de HTML
+
